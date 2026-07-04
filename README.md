@@ -20,14 +20,6 @@ I'm **Rayane** from **Algeria 🇩🇿**.
   <img src="https://skillicons.dev/icons?i=python,vscode,github" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayane31-prog&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayane31-prog&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
 
 ---
 
