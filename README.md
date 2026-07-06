@@ -10,7 +10,7 @@ I'm **Rayane** from **Algeria 🇩🇿**.
 
 ## 📚 Currently Learning
 
-* 🐍 Python Fundamentals
+- 🐍 Python Fundamentals
 
 ---
 
@@ -20,20 +20,32 @@ I'm **Rayane** from **Algeria 🇩🇿**.
   <img src="https://skillicons.dev/icons?i=python,vscode,github" />
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rayane31-prog&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayane31-prog&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+> **Note:** If the GitHub Stats cards do not appear, it means the service is temporarily unavailable. Your account is not the problem.
 
 ---
 
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://instagram.com/k0_.9hj">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+  <a href="https://www.instagram.com/ko_.9hj">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/>
   </a>
+  <a href="https://www.instagram.com/ko_.9hj">@ko_.9hj</a>
 </p>
+
 ---
 
 <div align="center">
 
-### 🚀 *Keep learning. Keep building.*
+### 🚀 Keep learning. Keep building.
 
 </div>
