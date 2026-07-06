@@ -1,3 +1,4 @@
+```markdown
 # 👋 Welcome to my GitHub!
 
 I'm **Rayane** from **Algeria 🇩🇿**.
@@ -22,11 +23,22 @@ I'm **Rayane** from **Algeria 🇩🇿**.
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Connect with Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rayane31-prog&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayane31-prog&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<p align="left">
+  <a href="https://www.instagram.com/ko_.9hj">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Keep learning. Keep building.
+
+</div>
+```
 </p>
 
 > **Note:** If the GitHub Stats cards do not appear, it means the service is temporarily unavailable. Your account is not the problem.
